@@ -7,5 +7,5 @@ I always strive to improve myself.I'm currently working on the Web area. I love 
 - 🔭 I’m currently working on Web area.
 - 🌱 I’m currently learning Django,Flask and Posgre SQL.
 - 📫 How to reach me:
-           twitter.com/UhtR3d /n
-           tanyelyigit@gmail.com
+           twitter.com/UhtR3d 
+           gmail/yigittanyel
