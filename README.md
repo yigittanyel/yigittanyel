@@ -9,8 +9,7 @@ I always strive to improve myself.I'm currently working on the Web area. I love 
 - 📫 How to reach me: twitter.com/UhtR3d 
                       gmail/yigittanyel
 
-![](https://visitor-badge.laobi.icu/badge?page_id=yigittanyel.yigittanyel)
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/yigittanyel)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yigittanyel&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigittanyel&theme=vue) 
  
