@@ -9,11 +9,8 @@ I always strive to improve myself.I'm currently working on the Web area. I love 
 - 📫 How to reach me: twitter.com/UhtR3d 
                       gmail/yigittanyel
 
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yigittanyel&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigittanyel&theme=vue) 
  
-
 # ✉️ Find me on:
 
 
