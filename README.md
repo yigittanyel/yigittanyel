@@ -13,7 +13,7 @@ I always strive to improve myself.I'm currently working on the Web area. I love 
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/yigittanyel)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigittanyel&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigittanyel&theme=vue) <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yigittanyel&show_icons=true&theme=gotham)
 
 # ✉️ Find me on:
