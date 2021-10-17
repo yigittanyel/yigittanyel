@@ -8,5 +8,4 @@ I always strive to improve myself.I'm currently working on the Web area. I love 
 - 🌱 I’m currently learning Django,Flask and Posgre SQL.
 - 📫 How to reach me:
            twitter.com/UhtR3d
-           https://www.linkedin.com/in/yi%C4%9Fit-tanyel-206709183/
            tanyelyigit@gmail.com
