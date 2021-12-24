@@ -4,13 +4,12 @@ I'm studying computer engineering at Bursa Uludag Univercity.I also studied web 
 I always strive to improve myself.I'm currently working on the Web area. I love Python and I'm trying to improve myself in this field.
 
 
-- 🔭 I’m currently working on Web area.
-- 🌱 I’m currently learning Django,Flask and Posgre SQL.
+- 🔭 I’m currently working on Web area mostly.
+- 🌱 I’m keeping currently learning ASP.NET MVC,ASP.NET MVC Core,Flask and Posgre SQL.
 - 📫 How to reach me: twitter.com/UhtR3d 
                       gmail/yigittanyel
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yigittanyel&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigittanyel&theme=vue) 
- 
+
 # ✉️ Find me on:
 
 
