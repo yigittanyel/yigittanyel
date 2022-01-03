@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm studying computer engineering at Bursa Uludag Univercity.I also studied web design and coding at Anadolu Univercity.
-I always strive to improve myself.I'm currently working on the Web area. I love Python and I'm trying to improve myself in this field.
+I'm studying computer engineering at Bursa Uludag Univercity.I also completed web design and coding at Anadolu Univercity.
+I always strive to improve myself.I'm currently working on .NET Mvc and Core 5.0.
 
 
 - 🔭 I’m currently working on Web area mostly.
