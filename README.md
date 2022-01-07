@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-I'm studying computer engineering at Bursa Uludag Univercity.I also completed web design and coding at Anadolu Univercity.
+I'm studying computer engineering at Bursa Uludag Univercity.I also completed web design and coding degree at Anadolu Univercity.
 I always strive to improve myself.I'm currently working on .NET Mvc and Core 5.0.
 
-
-- 🔭 I’m currently working on Web area mostly.
-- 🌱 I’m keeping currently learning ASP.NET MVC,ASP.NET MVC Core,Flask and Posgre SQL.
 - 📫 How to reach me: twitter.com/UhtR3d 
                       gmail/yigittanyel
 
