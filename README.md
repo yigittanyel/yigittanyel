@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm studying computer engineering at Bursa Uludag Univercity.I also graduated web design and coding degree at Anadolu Univercity.<br><br>
-I'm working İbras Kaucuk as computer engineering intern.<br><br>
+I'm working at İbras Kaucuk as computer engineering intern.<br><br>
 I always strive to improve myself.I'm currently working on .NET Mvc,.NET Core Mvc and Javascript(Angular,Jquery) topics.<br><br>
 I'm trying to make effective open source programs using my existing knowledge.I hope my profile will useful for you.<br>
 
