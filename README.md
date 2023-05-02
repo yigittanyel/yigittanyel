@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mert Software & Electronics.<br>🌱 I’m currently working on .NET technologies.<br>💬 Ask me about .Net framework and computer engineering.<br>
+🔭 I’m currently working on Mert Software & Electronics.<br>🌱 I’m currently working about .NET technologies.<br>💬 Ask me about .Net framework and computer engineering.<br>
 
 
 ## 🌐 Socials:
