@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Adesso.<br>🌱 I’m working about .NET technologies, Angular and Flutter. <br>💬 Ask me about .NET framework and software engineering.
+🔭 I’m currently working at Adesso.<br>🌱 I’m working about .NET technologies, Angular and Flutter. <br>💬 Ask me about .NET framework and software engineering.
 
 
 ## 🌐 Socials:
