@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Adesso.<br>🌱 I’m working about .NET technologies, Angular and Flutter. <br>💬 Ask me about .NET framework and software engineering.
+🔭 Hello, my name is Yiğit. I love sharing what i learned and love open-source.<br>🌱 I’m working about .NET technologies, Angular and Flutter. <br>💬 Ask me about .NET framework and software engineering.
 
 
 ## 🌐 Socials:
